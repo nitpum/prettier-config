@@ -1,6 +1,6 @@
 # @nitpum/prettier-config
 
-[![npm version](https://img.shields.io/npm/v/@nitpum/prettier-config.svg?style=flat)](https://www.npmjs.com/package/@nitpum/prettier-config)
+[![npm version](https://img.shields.io/npm/v/@nitpum/prettier-config.svg?style=flat)](https://www.npmjs.com/package/@nitpum/prettier-config) ![GitHub package.json version](https://img.shields.io/github/package-json/v/nitpum/prettier-config) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/nitpum/prettier-config)
 
 Shared Prettier config
 

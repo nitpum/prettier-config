@@ -1,0 +1,14 @@
+{
+  "name": "@nitpum/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier config",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "main": "index.json",
+  "repository": "git@github.com:nitpum/prettier-config.git",
+  "author": "nitpum <nitpum@outlook.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/nitpum/prettier-config"
+}

@@ -21,6 +21,6 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
       - run: pnpm install
-      - run: pnpm publish
+      - run: pnpm publish --no-git-checks --provenance
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
